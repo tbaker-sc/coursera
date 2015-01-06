@@ -1,4 +1,5 @@
 coursera
 ========
 
-Repository for any code associated with Coursera classes
+Repository for code associated with any Coursera classes
+
